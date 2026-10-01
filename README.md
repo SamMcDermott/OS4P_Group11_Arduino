@@ -6,7 +6,7 @@ Open Science for Physicists Group 11 Arduino Project
 1. Setup the Arduino software. Instructions are given in `Getting_started.pdf` in the instructions folder.
 
 ## P/T/RH Sensor
-2. Build the breadboard circuit for the $P\_T\_RH$ sensor. Instructions are given in `P_T_RH_sensor_setup.pdf` in the instructions folder.
+2. Build the breadboard circuit for the P/T/RH sensor. Instructions are given in `P_T_RH_sensor_setup.pdf` in the instructions folder.
 
 3.  Make sure that the SD card is cleared out before each run. The code for this is given in the `delete_sd.ino` file in the given_codes folder.
 
